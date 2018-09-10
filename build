@@ -1,2 +1,2 @@
-docker build -t adzdavies/awsebcli .
+docker build -t adzdavies/awsebcli_docker .
 

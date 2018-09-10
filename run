@@ -9,4 +9,4 @@ docker run -it --rm \
   -v ~/.aws:/root/.aws \
   -v ~/.elasticbeanstalk:/root/.elasticbeanstalk \
   -v ~/.ssh:/root/.ssh \
-  adzdavies/awsebcli "$@"
+  adzdavies/awsebcli_docker "$@"
