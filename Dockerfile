@@ -16,5 +16,5 @@ RUN \
 RUN \
   pip install --upgrade \
     pip \
-    "awsebcli==3.15.1" && \
+    "awsebcli==3.18.1" && \
   mkdir /root/.aws
